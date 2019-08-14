@@ -4,7 +4,7 @@ audit_date: '2019-03-07'
 title: Linux file permission concepts
 type: article
 created_date: '2011-11-23'
-created_by: Rackspace community
+created_by: Jered Heeschen
 last_modified_date: '2019-03-07'
 last_modified_by: Cat Lookabaugh
 product: Cloud Servers
